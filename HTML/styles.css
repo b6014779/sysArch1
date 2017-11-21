@@ -12,6 +12,17 @@ h3 {color: blue; font-family:Garamond;}
 
 hr {border-color : blue;}
 
+th {
+    background-color: #4CAF50;
+    color: white;
+    font-family: Arial;
+}
+
+td {
+    background-color: blue;
+    color: white;
+    font-family: Arial;
+}
 ul{
   list-style-type; lower-roman;
   
